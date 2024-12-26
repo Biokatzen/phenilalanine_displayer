@@ -1,0 +1,43 @@
+html {background: #f9f9f9;
+      font-family: sans-serif;
+    }
+h1 {position: relative;
+    left: 35%;}
+#content {background: #ffffff;
+         margin: 20px;
+         padding: 20px;}
+#fish {position: fixed;
+       bottom: 0vw;
+       right: 0vw;
+       height: 30vw;
+       opacity: 1;
+}
+
+.header {background: #1B4965;
+         color: #ffffff;
+         margin-top: 0vw;
+         box-sizing: border-box;
+         text-decoration: none;
+        }
+.header :first-child {font-style: bold;
+                      font-size: 1.5em;
+                      display: inline;
+                      padding: 20px 15px 20px 15px;
+                      margin-right: 20px;
+                      
+                     }
+#eel {color: #DEB887;
+      padding: 0%;
+      margin: 0%;
+      }
+.header a:hover{text-decoration: underline;
+                 color: #ffffff;}
+.header a {margin-right: 20px;
+           color: #ffffff;
+           font-size: larger; }
+#salmon_button {background: #FF6B6B;
+                color: white;
+                padding: 0.5em;
+                text-decoration: none;
+                position:relative;
+                left: 35%;}
